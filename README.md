@@ -86,5 +86,3 @@ These patterns suggest that usage intensity, service experience, and plan choice
 - Deploy the model as a web app or internal tool
 - Monitor live model performance and retrain periodically
 
-## 📂 Repository Structure
-
