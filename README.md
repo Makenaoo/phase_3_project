@@ -30,8 +30,6 @@ We used a supervised machine learning classification approach to build and evalu
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
-- XGBoost (optional)
-- Imbalanced-learn (SMOTE)
 
 ## ⚙️ Modeling Workflow
 
